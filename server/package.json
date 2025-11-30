@@ -1,0 +1,12 @@
+{
+  "name": "coin-collector-server",
+  "version": "1.0.0",
+  "description": "Authoritative server for Coin Collector game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
