@@ -28,3 +28,7 @@ To simulate multiplayer, open the same file in multiple tabs or windows.
 
 ## Controls
 - **Arrow Keys** or **WASD** to move.
+
+**This project is made with 💙 by Sarthak Kumar IIT Delhi**
+
+**Thanks**
